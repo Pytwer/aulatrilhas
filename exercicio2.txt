@@ -1,0 +1,57 @@
+Questão 1 — Contagem de números
+
+Crie um programa que faça uma contagem de 1 até 20 e mostre cada número no console.Ao final da contagem, informe que a contagem foi finalizada.
+
+    Obrigatório: utilizar uma variável e um loop for.
+
+
+
+
+
+
+
+Questão 2 — Contando números pares
+
+Crie um programa que faça uma contagem de 1 até 30. Durante a contagem, o programa deverá verificar cada número e informar se ele é par ou ímpar.
+
+Exemplo do resultado:
+
+1 é ímpar
+2 é par
+3 é ímpar
+4 é par
+...
+
+Obrigatório: utilizar variável, for, if e else.
+
+
+
+Questão 3 — Contagem regressiva
+
+Crie um programa que faça uma contagem regressiva de 10 até 0 utilizando um loop while.
+
+Quando chegar ao número 0, o programa deverá mostrar uma mensagem informando:
+
+Contagem finalizada!
+
+Obrigatório: utilizar variável, while, if e else.
+
+
+
+
+
+Questão 4 — Sistema de tentativas
+
+Crie um programa que tenha um número secreto definido em uma variável.
+
+O usuário deverá tentar descobrir qual é esse número.O programa deverá continuar perguntando enquanto o usuário não acertar.
+
+A cada tentativa:
+
+Se o número informado for igual ao número secreto, informe que o usuário acertou.
+Se for diferente, informe que ele errou e permita uma nova tentativa.
+Ao acertar, informe também quantas tentativas foram necessárias.
+
+    Obrigatório: utilizar variáveis, while, if e else.
+
+Desafio extra: informe se o número digitado pelo usuário é maior ou menor que o número secreto.
